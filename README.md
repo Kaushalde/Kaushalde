@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalde&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalde" /> </p>
 
-<img align="right" width="350" src="https://github.com/user-attachments/assets/f8ed7f21-e58c-4214-a0b4-43005712b01a">
+<img align="center" width="350" src="https://github.com/user-attachments/assets/f8ed7f21-e58c-4214-a0b4-43005712b01a">
 
 - 🌱 I’m currently learning **JavaScript**
 
